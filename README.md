@@ -1,6 +1,6 @@
-# InsuranceOps AI - Landing Page Mockup
+# MediCodex - Landing Page Mockup
 
-This is a static landing page for **InsuranceOps AI**, a conceptual AI-powered operating system for insurance claims processing and fraud detection.
+This is a static landing page for **MediCodex**, a conceptual AI-powered operating system for insurance claims processing and fraud detection.
 
 ## Project Overview
 

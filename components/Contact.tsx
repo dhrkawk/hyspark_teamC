@@ -9,7 +9,7 @@ export function Contact() {
             <h2>도입 문의</h2>
             <p>보험 심사 업무의 혁신, 지금 바로 시작하세요. 데모 시연이나 상세 견적이 필요하시면 언제든 문의해주세요.</p>
             <div className="info-item">
-              <strong>이메일:</strong> sales@insuranceops.ai
+              <strong>이메일:</strong> sales@medicodex.ai
             </div>
             <div className="info-item">
               <strong>전화번호:</strong> 02-1234-5678

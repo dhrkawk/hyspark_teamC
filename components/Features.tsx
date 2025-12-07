@@ -34,7 +34,7 @@ export default function Features() {
       <section id="features" className="section solution-section">
         <div className="container">
           <div className="text-center mb-12">
-            <h2>InsuranceOps AI가 해결해 드립니다</h2>
+            <h2>MediCodex가 해결해 드립니다</h2>
             <p className="section-desc">보험 심사 팀을 위한 완벽한 AI 운영체제</p>
           </div>
 

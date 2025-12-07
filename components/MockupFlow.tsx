@@ -42,7 +42,7 @@ export default function MockupFlow() {
                 <span className="dot yellow"></span>
                 <span className="dot green"></span>
               </div>
-              <div className="address-bar">insuranceops.ai/dashboard</div>
+              <div className="address-bar">medicodex.ai/dashboard</div>
             </div>
             
             <div className="window-content">

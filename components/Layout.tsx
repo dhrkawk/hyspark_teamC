@@ -22,7 +22,7 @@ export default function Layout({ children }: LayoutProps) {
   return (
     <>
       <Head>
-        <title>InsuranceOps AI - Automated Claims Processing</title>
+        <title>MediCodex - Automated Claims Processing</title>
         <meta name="description" content="AI-powered insurance claim processing and fraud detection." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -31,7 +31,7 @@ export default function Layout({ children }: LayoutProps) {
         <div className="container">
           <div className="logo">
             <Link href="/">
-              <span className="logo-text">InsuranceOps<span className="highlight">AI</span></span>
+              <span className="logo-text">Medi<span className="highlight">Codex</span></span>
             </Link>
           </div>
 
@@ -67,7 +67,7 @@ export default function Layout({ children }: LayoutProps) {
         <div className="container">
           <div className="footer-content">
             <div className="footer-col">
-              <h3>InsuranceOps AI</h3>
+              <h3>MediCodex</h3>
               <p>AI 기반 보험 지급 심사 자동화 솔루션</p>
             </div>
             <div className="footer-col">
@@ -89,7 +89,7 @@ export default function Layout({ children }: LayoutProps) {
             </div>
           </div>
           <div className="footer-bottom">
-            <p>&copy; {new Date().getFullYear()} InsuranceOps AI. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} MediCodex. All rights reserved.</p>
           </div>
         </div>
       </footer>
