@@ -38,7 +38,7 @@ export default function Pricing() {
             <div className="card-header">
               <h3>Pro</h3>
               <div className="price">
-                <span className="amount">₩500,000</span>
+                <span className="amount">₩100,000</span>
                 <span className="period">/월</span>
               </div>
               <p className="desc">성장하는 보험사 및 손해사정 법인을 위한 플랜</p>
